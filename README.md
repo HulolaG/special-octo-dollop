@@ -1,2 +1,2 @@
 # special-octo-dollop
-This is the repository for study.
+This is different from master.
